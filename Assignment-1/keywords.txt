@@ -1,0 +1,14 @@
+pos = [ "good", "creamy", "delicious", "like", "liked", "persistent", "care", "cared", "clean", "neat", "warm", "loved", "comfortable", "trust", "recommend", "best", "amazing", "adore", "fan", "great", "flawless",organized", "friendly", "professional", "help", "helped", "perfect", "excited", "favorite", "tender", "right", "overwhelmed", "smooth", "easy", "high ", "high quality", "reasonable", "knowledgeable", "enjoy", "enjoyed", "fun", "fresh", "tasty", "yummy", "
+healthy", "excellent", "pleased", "pleasing", "pleasure", "kind", "delightful", "fantastic", "efficient", "smokey", "juicy", "nice", "nicely", "hot", "toasted", "crispy", "heat", " big", "personalized", "enjoying", "equipped", "latest", "glad", "phenomenal" ]
+
+
+
+
+
+
+
+
+
+
+
+neg = [ "old", "horrible", "crooks", "avoid", "down hill", "cut back", "big deal", "sick", "disappoint", "disappointed", "bad", "bitter", "worst", "wrong", "limited", "unprofessional", "rude", "rudely", "empty", "low", "cold", "discriminate", "discrimination", "sad", "sadly", "busy", "problem", "second thoughts", "dreadful", "awful", "terrible", "crappy", "crappier" ]
