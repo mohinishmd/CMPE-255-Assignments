@@ -1,0 +1,66 @@
+
+
+
+----Polynomial Kernel!!----
+
+                 precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00         9
+Iris-versicolor       0.83      1.00      0.91        10
+ Iris-virginica       1.00      0.82      0.90        11
+
+      micro avg       0.93      0.93      0.93        30
+      macro avg       0.94      0.94      0.94        30
+   weighted avg       0.94      0.93      0.93        30
+ 
+
+[[ 9  0  0]
+ [ 0 10  0]
+ [ 0  2  9]] 
+
+Accuracy of Polynomial Kernel:  0.9333333333333333 
+
+
+
+
+----Gaussian Kernel!!----
+
+                 precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00         4
+Iris-versicolor       1.00      1.00      1.00        10
+ Iris-virginica       1.00      1.00      1.00        16
+
+      micro avg       1.00      1.00      1.00        30
+      macro avg       1.00      1.00      1.00        30
+   weighted avg       1.00      1.00      1.00        30
+ 
+
+[[ 4  0  0]
+ [ 0 10  0]
+ [ 0  0 16]] 
+
+Accuracy of the Gaussian Kernel:  1.0 
+
+
+
+
+----Sigmoid Kernel!!----
+
+[[ 8  0  0]
+ [ 0  8  0]
+ [ 0  2 12]] 
+
+                 precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00         8
+Iris-versicolor       0.80      1.00      0.89         8
+ Iris-virginica       1.00      0.86      0.92        14
+
+      micro avg       0.93      0.93      0.93        30
+      macro avg       0.93      0.95      0.94        30
+   weighted avg       0.95      0.93      0.93        30
+ 
+
+Accuracy of Sigmoid Kernel:  0.9333333333333333 
+
